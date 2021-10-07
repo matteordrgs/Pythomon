@@ -1,6 +1,6 @@
 #   Phythomon Lylian Bourgin matteo rodriges 
 #   But du jeux faire des combat de pokemon en 1 contre 1 
-#   23.09.21 aaaaaaaaaaaaaa
+#   23.09.21 aaaaaa
 
 
 # importation du timer
